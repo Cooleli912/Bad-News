@@ -1,3 +1,7 @@
+# THIS IS OUTDATED, I HAVE FOUND A WAY!
+The following bad news has passed, I have returned to github.
+
+
 # Bad News
 
 I'll be leaving Github, and moving on, because I am required to enable two factor authenication, but, I can't, so I can no longer post here, for new content, go to http://www.eelonline.us/
